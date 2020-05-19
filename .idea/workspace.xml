@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42b07492-155f-4c00-b56d-b7bca7e87140" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/02_06_End-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_06_End-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProjectDraft.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectDraft.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_list/complete_ticker_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/stock_list/complete_ticker_list.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_list/extract_and_write_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock_list/extract_and_write_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_list/multiple_user_ticker_support.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock_list/multiple_user_ticker_support.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Andreserdna/final_python.git" />
+        <option value="https://github.com/caramariom/final_python.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1blVltL6GmFXSJIgPiBTpCzOUji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.multiple_user_ticker_support">
+    <configuration name="extract_and_write_to_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock_list/extract_and_write_to_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiple_user_ticker_support" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="final_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock_list/multiple_user_ticker_support.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.multiple_user_ticker_support" />
+        <item itemvalue="Python.extract_and_write_to_csv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="63" width="1350" height="678" key="DiffContextDialog" timestamp="1589385685212">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="126" y="63" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1589385685212" />
+    <state width="1515" height="233" key="GridCell.Tab.0.bottom" timestamp="1589385701900">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589385701900" />
+    <state width="1515" height="233" key="GridCell.Tab.0.center" timestamp="1589385701900">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589385701900" />
+    <state width="1515" height="233" key="GridCell.Tab.0.left" timestamp="1589385701900">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589385701900" />
+    <state width="1515" height="233" key="GridCell.Tab.0.right" timestamp="1589385701900">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589385701900" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1589382619249">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1589382619249" />
+    <state x="500" y="166" key="VcsDiffUtil.ChangesDialog" timestamp="1589382470668">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="500" y="166" key="VcsDiffUtil.ChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1589382470668" />
+  </component>
+</project>
